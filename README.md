@@ -18,6 +18,28 @@ Seluruh praktikum mengikuti modul pembelajaran mulai dari Pertemuan 1 hingga Per
 
 ---
 
+# Struktur Repository
+
+```
+DataScience-Practicum
+
+├── README.md
+├── Pertemuan1_Suci_Rahmadhani_240401070508.ipynb
+├── Pertemuan2_Suci_Rahmadhani_240401070508.ipynb
+├── Pertemuan3_Suci_Rahmadhani_240401070508.ipynb
+├── Pertemuan4_Suci_Rahmadhani_240401070508.ipynb
+├── Pertemuan5_Suci_Rahmadhani_240401070508.ipynb
+├── Pertemuan6_Suci_Rahmadhani_240401070508.ipynb
+├── Pertemuan7_Suci_Rahmadhani_240401070508.ipynb
+```
+
+---
+
+# Tujuan Repository
+
+Repository ini dibuat sebagai dokumentasi hasil praktikum dan tugas Ujian Tengah Semester (UTS) mata kuliah Pengantar Data Science. Seluruh notebook disusun mengikuti modul praktikum sehingga dapat menunjukkan proses pembelajaran mulai dari pengolahan data, pembersihan data, analisis statistik, visualisasi, preprocessing machine learning, hingga implementasi model prediksi sederhana menggunakan Python.
+
+---
 # Daftar Praktikum
 
 ## Pertemuan 1 — Pengenalan Data Science
@@ -124,30 +146,7 @@ Library yang digunakan pada seluruh praktikum antara lain:
 - Scikit-Learn
 - SciPy
 - Requests
-
----
-
-# Struktur Repository
-
-```
-DataScience-Practicum
-
-├── README.md
-├── Pertemuan1_Suci_Rahmadhani_240401070508.ipynb
-├── Pertemuan2_Suci_Rahmadhani_240401070508.ipynb
-├── Pertemuan3_Suci_Rahmadhani_240401070508.ipynb
-├── Pertemuan4_Suci_Rahmadhani_240401070508.ipynb
-├── Pertemuan5_Suci_Rahmadhani_240401070508.ipynb
-├── Pertemuan6_Suci_Rahmadhani_240401070508.ipynb
-├── Pertemuan7_Suci_Rahmadhani_240401070508.ipynb
-```
-
----
-
-# Tujuan Repository
-
-Repository ini dibuat sebagai dokumentasi hasil praktikum dan tugas Ujian Tengah Semester (UTS) mata kuliah Pengantar Data Science. Seluruh notebook disusun mengikuti modul praktikum sehingga dapat menunjukkan proses pembelajaran mulai dari pengolahan data, pembersihan data, analisis statistik, visualisasi, preprocessing machine learning, hingga implementasi model prediksi sederhana menggunakan Python.
-
+  
 ---
 
 # Penutup
